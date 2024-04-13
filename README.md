@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liang!
 - 👀 I’m interested in photography, Generative AI, news, pop culture, coding.
 - 🌱 I’m currently learning Pandas and Applied Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on:
 - 📫 Email: wuiliang.lim@gmail.com
 - ⚡ Fun fact: I love hiking!
 
